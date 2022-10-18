@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keijaan
 - 👀 I’m interested in programming!
-- 🌱 I’m currently learning Python, Java, PHP, Vb.net
+- 🌱 I’m currently learning Python, Java, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
